@@ -1,0 +1,7 @@
+.container1 input{
+    border: none;
+    border-bottom: 1px solid blue;
+    margin-bottom: 1rem;
+    outline: none;
+    background-color: rgb(253, 214, 214);
+}
